@@ -3,7 +3,7 @@
 def main():
     print("""
     Hello World! from:
-    - Joel Welling
+    - Fangzhou Yuan
     """)
 
 if __name__ == "__main__":
