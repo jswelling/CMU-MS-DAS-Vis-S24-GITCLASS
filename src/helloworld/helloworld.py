@@ -6,6 +6,7 @@ def main():
     - Joel Welling
     - Sri Manikantan
     - Karthikeya Manchala
+    - Sarvesh Paradkar
     """)
 
 if __name__ == "__main__":
