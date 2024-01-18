@@ -2,7 +2,7 @@
 
 def main():
     print("""
-    Hello World! from:
+    Hello World! from: James, Sathvik, Heath, and Alex
     - Joel Welling
     """)
 
