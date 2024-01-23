@@ -5,7 +5,7 @@ def main():
     Hello World! from:
     - Joel Welling
     - Gayatri Chabra
-    - Rohit Varanasy
+    -  Rohit Varanasy
     - Richard Wang
     - Joon Jung                        
     """)
