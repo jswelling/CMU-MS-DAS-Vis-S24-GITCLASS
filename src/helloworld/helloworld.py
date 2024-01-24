@@ -8,6 +8,7 @@ def main():
     - Anqi Wu
     - Xinran Chen
     - Joel Beltran
+    - Ruiqian Tang
     """)
 
 if __name__ == "__main__":
