@@ -5,6 +5,9 @@ def main():
     Hello World! from: James, Sathvik, Heath, and Alex. Our group number 
 is 1
     - Joel Welling
+    - Britney Wang
+    - Fangzhou Yuan
+    - Luna Zhu
     - Gayatri Chabra
     -  Rohit Varanasy
     - Richard Wang
