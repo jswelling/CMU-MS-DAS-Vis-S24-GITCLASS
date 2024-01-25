@@ -5,6 +5,10 @@ def main():
     Hello World! from: James, Sathvik, Heath, and Alex. Our group number 
 is 1
     - Joel Welling
+    - Gayatri Chabra
+    -  Rohit Varanasy
+    - Richard Wang
+    - Joon Jung                        
     - Sri Manikantan
     - Karthikeya Manchala
     - Sarvesh Paradkar
