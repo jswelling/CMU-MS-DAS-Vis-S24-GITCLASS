@@ -6,6 +6,7 @@ def main():
     - Joel Welling
     - Britney Wang
     - Fangzhou Yuan
+    - Luna Zhu
     """)
 
 if __name__ == "__main__":
