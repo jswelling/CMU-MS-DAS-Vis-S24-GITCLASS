@@ -5,6 +5,9 @@ def main():
     Hello World! from: James, Sathvik, Heath, and Alex. Our group number 
 is 1
     - Joel Welling
+    - Sri Manikantan
+    - Karthikeya Manchala
+    - Sarvesh Paradkar
     - Xinran Chen
     """)
 
